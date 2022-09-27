@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cv-project-react/static/css/main.1a4e7c11.css",
+    "main.js": "/cv-project-react/static/js/main.be1d523f.js",
+    "static/media/Iryna Bolbat photo.JPEG": "/cv-project-react/static/media/Iryna Bolbat photo.097028294a96d8938a14.JPEG",
+    "static/media/water-control.png": "/cv-project-react/static/media/water-control.c062c6c35bdc4c58e5a0.png",
+    "static/media/Iryna Bolbat CV.pdf": "/cv-project-react/static/media/Iryna Bolbat CV.e454646bda05381da696.pdf",
+    "static/media/online-shop.png": "/cv-project-react/static/media/online-shop.92e4665d910fc653b702.png",
+    "index.html": "/cv-project-react/index.html",
+    "main.1a4e7c11.css.map": "/cv-project-react/static/css/main.1a4e7c11.css.map",
+    "main.be1d523f.js.map": "/cv-project-react/static/js/main.be1d523f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a4e7c11.css",
+    "static/js/main.be1d523f.js"
+  ]
+}
