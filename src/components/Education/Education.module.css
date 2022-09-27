@@ -1,0 +1,61 @@
+.education {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.education_container {
+    margin: 5% 0;
+    width: 75%;
+    font-size: 18px;
+    min-width: 300px;
+}
+
+.education_wrapper {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 10%;
+    width: 100%;
+}
+
+.education_wrapper ul {
+    padding: 0;
+}
+
+.education_wrapper li {
+    list-style: circle;
+    width: 70%;
+}
+
+.title {
+    margin: 5% 0;
+    color: var(--color-main);
+    font-weight: 800;
+}
+
+@media (min-width: 661px) and (max-width: 992px) {
+    .education_wrapper li {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .education_wrapper {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 0;
+        font-size: 18px;
+        align-items: center;
+    }
+
+    .education_wrapper li {
+        width: 300px;
+    }
+
+    .title {
+        display: block;
+        text-align: center;
+    }
+}

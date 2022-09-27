@@ -1,0 +1,119 @@
+.portfolio_wrapper {
+    padding-top: 10%;
+    padding-bottom: 5%;
+    overflow: auto;
+    height: 100vh;
+    text-transform: uppercase;
+}
+
+.works_wrapper {
+    width: 95%;
+}
+
+.work_container {
+    text-align: center;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-bottom: 3%;
+}
+
+.work_link {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.image {
+    width: 80%;
+    border-radius: var(--border-radius-btn);
+}
+
+.work_name {
+    color: var(--text-main);
+}
+
+.card {
+    text-align: center;
+}
+
+.my_responsibility {
+    color: var(--text-main);
+    text-align: center;
+}
+
+.list_my_tasks {
+    margin-left: 10%;
+}
+
+.my_work_in_project {
+    text-align: left;
+    color: var(--text-main);
+    list-style-type: circle;
+}
+
+@media (min-width: 821px) and (max-width: 1200px) {
+    .work_name {
+        font-size: 22px;
+        padding-top: 3%;
+    }
+
+    .my_responsibility {
+        font-size: 15px;
+    }
+
+    .my_work_in_project {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 820px) {
+    .works_wrapper {
+        margin-bottom: 15% !important;
+        width: 100%;
+    }
+
+    .work_container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .store {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+
+    .work_name {
+        font-size: 20px;
+        padding-top: 3%;
+    }
+
+    .my_responsibility {
+        font-size: 15px;
+    }
+
+    .my_work_in_project {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .works_wrapper {
+        margin-bottom: 20% !important;
+        width: 100%;
+    }
+
+    .work_name {
+        font-size: 18px;
+    }
+
+    .my_responsibility {
+        font-size: 15px;
+    }
+
+    .my_work_in_project {
+        font-size: 14px;
+    }
+}

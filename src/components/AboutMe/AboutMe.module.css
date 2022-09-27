@@ -1,0 +1,19 @@
+.wrapper {
+    display: grid;
+    padding-top: 10%;
+    overflow: auto;
+    height: 100vh;
+    text-transform: uppercase;
+}
+
+@media (min-width: 581px) and (max-width: 992px) {
+    .wrapper {
+        padding-bottom: 10% !important;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .wrapper {
+        padding-bottom: 20% !important;
+    }
+}

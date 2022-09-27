@@ -1,0 +1,12 @@
+.contact_input {
+    margin-bottom: 5%;
+    border-radius: var(--border-radius-btn);
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: -4%;
+    margin-bottom: 3%;
+    margin-left: 20px;
+}
