@@ -10,7 +10,7 @@ const Home = () => {
     return (
         <div className={style.main_container}>
             <div className={style.photo_wrapper}>
-                <img src={myPhoto} className={style.photo}/>
+                <img src={myPhoto} alt={'Iryna Bolbat'} className={style.photo}/>
             </div>
 
             <div className={style.short_info}>

@@ -13,7 +13,7 @@ const Portfolio = () => {
                 <div className={style.work_container}>
                     <a href='https://eleks-bootcamp-water-control.netlify.app/' target="_blank"
                        className={style.work_link}>
-                        <img src={waterControl} className={style.image}/>
+                        <img src={waterControl} alt={"Water control app"} className={style.image}/>
                     </a>
                     <div className={style.card}>
                         <h4 className={style.work_name}>Water control app(Team work)</h4>
@@ -33,7 +33,7 @@ const Portfolio = () => {
                     </div>
                     <a href='https://irinabolbat.github.io/online-store-react/' target="_blank"
                        className={style.work_link}>
-                        <img src={onlineShop} className={style.image}/>
+                        <img src={onlineShop} alt={"Online store app"} className={style.image}/>
                     </a>
                 </div>
             </div>
