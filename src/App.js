@@ -1,4 +1,5 @@
 import {Route, Routes} from "react-router-dom";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import AboutMe from "./components/AboutMe/AboutMe";
 import Portfolio from "./components/Porthofio/Portfolio";
 import Contact from "./components/Contact/Contact";
