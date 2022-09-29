@@ -6,8 +6,7 @@ import {Outlet} from "react-router-dom";
 import {ToastContainer} from "react-toastify";
 
 const Theme = () => {
-    const [theme, setTheme] = useLocalStorage('theme' ? 'dark' : 'light')
-
+    const [theme, setTheme] = useLocalStorage('theme', 'light')
     const switchTheme = () => {
         const newTheme = theme === 'light' ? 'dark' : 'light'
         setTheme(newTheme)
