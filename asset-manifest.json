@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cv-project-react/static/css/main.da9609ba.css",
+    "main.css": "/cv-project-react/static/css/main.d874fa43.css",
     "main.js": "/cv-project-react/static/js/main.b5eb37c4.js",
     "static/media/Iryna Bolbat photo.JPEG": "/cv-project-react/static/media/Iryna Bolbat photo.097028294a96d8938a14.JPEG",
     "static/media/water-control.png": "/cv-project-react/static/media/water-control.c062c6c35bdc4c58e5a0.png",
     "static/media/Iryna Bolbat CV.pdf": "/cv-project-react/static/media/Iryna Bolbat CV.e454646bda05381da696.pdf",
     "static/media/online-shop.png": "/cv-project-react/static/media/online-shop.92e4665d910fc653b702.png",
     "index.html": "/cv-project-react/index.html",
-    "main.da9609ba.css.map": "/cv-project-react/static/css/main.da9609ba.css.map",
+    "main.d874fa43.css.map": "/cv-project-react/static/css/main.d874fa43.css.map",
     "main.b5eb37c4.js.map": "/cv-project-react/static/js/main.b5eb37c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.da9609ba.css",
+    "static/css/main.d874fa43.css",
     "static/js/main.b5eb37c4.js"
   ]
 }
