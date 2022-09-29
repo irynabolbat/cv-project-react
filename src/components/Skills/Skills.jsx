@@ -5,7 +5,7 @@ const Skills = () => {
     const mySkills = ['HTML', 'CSS', 'Git', 'Java Script', 'React', 'React Hooks', 'React Redux']
     return (
         <div>
-            <h2 className={style.title_skills}>My skills</h2>
+            <h2 className={style.title_skills}>Skills</h2>
             <div className={style.skills_wrapper}>
                 <ul className={style.skills_container}>
                     {mySkills.map((skill, index) => (

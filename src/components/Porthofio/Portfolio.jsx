@@ -5,10 +5,10 @@ import waterControl from './img/water-control.png'
 import Title from "../Base/Title/Title";
 
 const Portfolio = () => {
-    const myTasks = ['Login/Registration form', 'User settings', 'Add firebase', 'Hamburger menu', 'Feedback page', 'Analytics']
+    const myTasks = ['Login/Registration form', 'User settings', 'Adding the firebase', 'Hamburger menu', 'Feedback page', 'Analytics']
     return (
         <div className={style.portfolio_wrapper}>
-            <Title text={'My'} pickOutText={'portfolio'} backText={'Works'}/>
+            <Title text={'Portfolio'} backText={'Works'}/>
             <div className={style.works_wrapper}>
                 <div className={style.work_container}>
                     <a href='https://eleks-bootcamp-water-control.netlify.app/' target="_blank"
@@ -16,8 +16,8 @@ const Portfolio = () => {
                         <img src={waterControl} alt={"Water control app"} className={style.image}/>
                     </a>
                     <div className={style.card}>
-                        <h4 className={style.work_name}>Water control app(Team work)</h4>
-                        <div className={style.my_responsibility}>My responsibility:</div>
+                        <h4 className={style.work_name}>Water control app (Team work)</h4>
+                        <div className={style.my_responsibility}>My responsibilities:</div>
                         <ul className={style.list_my_tasks}>
                             {
                                 myTasks.map((task, index) => (
