@@ -35,6 +35,11 @@
     font-weight: 800;
 }
 
+.course_learned {
+    text-transform: none;
+    padding-left: 5%;
+}
+
 @media (min-width: 661px) and (max-width: 992px) {
     .education_wrapper li {
         width: 80%;

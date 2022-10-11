@@ -22,7 +22,7 @@ const PersonalInfo = () => {
                     <li>Location: <span className={style.profile_info_span}>Kharkiv, Ukraine</span></li>
                     <li>Phone: <span className={style.profile_info_span}>0 (95) 606 67 19</span></li>
                     <li>Email: <span className={style.profile_info_span}>irinabolbat98@gmail.com</span></li>
-                    <li>Languages: <span className={style.profile_info_span}>Russian, Ukrainian, English</span></li>
+                    <li className={style.profile_info_span_languages}>Languages: <span className={style.profile_info_span}>Ukrainian, English - Intermediate, Russian</span></li>
                 </ul>
             </div>
             <DownloadCV/>

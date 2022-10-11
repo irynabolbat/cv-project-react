@@ -14,8 +14,8 @@ const Home = () => {
             </div>
 
             <div className={style.short_info}>
-                <h1 className={style.name}>Hi! 👋 I`m Iryna Bolbat. <div className={style.position}>trainee front-end
-                    developer (React)</div></h1>
+                <h1 className={style.name}>Hi! 👋 I`m Iryna Bolbat. <div className={style.position}>Junior/Trainee Front-end
+                    Developer (React)</div></h1>
                 <p className={style.about_short}>I'm a Ukrainian based trainee front‑end developer (React).
                     I`m passionate about building user-friendly projects.
                 </p>

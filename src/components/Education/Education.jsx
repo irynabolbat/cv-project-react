@@ -7,6 +7,7 @@ const Education = () => {
         <div className={style.education}>
             <div className={style.education_container}>
                 <div className={style.education_wrapper}>
+                    <Courses/>
                     <div>
                         <h2 className={style.title}>University education</h2>
                         <ul>
@@ -22,7 +23,6 @@ const Education = () => {
                             </li>
                         </ul>
                     </div>
-                    <Courses/>
                 </div>
             </div>
         </div>

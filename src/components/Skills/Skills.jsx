@@ -2,7 +2,7 @@ import React from 'react';
 import style from './Skills.module.css'
 
 const Skills = () => {
-    const mySkills = ['HTML', 'CSS', 'Git', 'Java Script', 'React', 'React Hooks', 'React Redux']
+    const mySkills = ['HTML', 'CSS', 'Module CSS', 'Bootstrap' , 'Responsive Web Design', 'Git', 'Java Script', 'React', 'React Hooks', 'React Redux', 'API', 'Axios', 'Fetch', 'Firebase']
     return (
         <div>
             <h2 className={style.title_skills}>Skills</h2>

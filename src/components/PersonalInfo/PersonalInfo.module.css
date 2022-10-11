@@ -40,6 +40,10 @@
     font-weight: bold;
 }
 
+.profile_info_span_languages {
+    width: 50% !important;
+}
+
 @media (min-width: 661px) and (max-width: 992px) {
     .profile_info li {
         width: 85%;
@@ -65,5 +69,9 @@
 
     .profile_info li {
         width: 300px;
+    }
+
+    .profile_info_span_languages {
+        width: 300px !important;
     }
 }

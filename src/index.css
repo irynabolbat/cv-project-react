@@ -7,6 +7,7 @@
     --text-secondary: white;
     --text-label: #470C7A;
     --title-background: hsla(0, 77%, 25%, 0.07);
+    --gradient: linear-gradient(to right, var(--color-main), #7f04f7);
     --border-radius-btn: 35px
 }
 

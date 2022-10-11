@@ -30,8 +30,19 @@
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    border: 7px solid var(--color-main);
+    border-width: 3px;
+    border-style: solid;
+    background:
+    linear-gradient(var(--bakground-color), var(--bakground-color)) padding-box,
+    var(--gradient) border-box;
+    border-image: var(--gradient);
     text-align: center;
+    margin-bottom: 2%;
+}
+
+.skill_box span {
+    font-size: 13px;
+    color: var(--text-main);
 }
 
 @media screen and (max-width: 660px) {
