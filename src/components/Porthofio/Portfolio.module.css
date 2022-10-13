@@ -77,7 +77,7 @@
         flex-direction: column;
     }
 
-    .store {
+    .work_container_left {
         display: flex;
         flex-direction: column-reverse;
         justify-content: center;
