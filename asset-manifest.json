@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/cv-project-react/static/css/main.dde7decd.css",
-    "main.js": "/cv-project-react/static/js/main.b5366158.js",
+    "main.css": "/cv-project-react/static/css/main.4e52c4d9.css",
+    "main.js": "/cv-project-react/static/js/main.7e38cffc.js",
     "static/media/Iryna Bolbat photo.JPEG": "/cv-project-react/static/media/Iryna Bolbat photo.097028294a96d8938a14.JPEG",
+    "static/media/food-recipes.png": "/cv-project-react/static/media/food-recipes.02618ce4ee20538105a0.png",
     "static/media/water-control.png": "/cv-project-react/static/media/water-control.c062c6c35bdc4c58e5a0.png",
-    "static/media/Iryna Bolbat CV.pdf": "/cv-project-react/static/media/Iryna Bolbat CV.6082cc49e3bf02535f34.pdf",
+    "static/media/Iryna Bolbat CV.pdf": "/cv-project-react/static/media/Iryna Bolbat CV.9fda308987a5a355e0bc.pdf",
     "static/media/online-shop.png": "/cv-project-react/static/media/online-shop.92e4665d910fc653b702.png",
     "index.html": "/cv-project-react/index.html",
-    "main.dde7decd.css.map": "/cv-project-react/static/css/main.dde7decd.css.map",
-    "main.b5366158.js.map": "/cv-project-react/static/js/main.b5366158.js.map"
+    "main.4e52c4d9.css.map": "/cv-project-react/static/css/main.4e52c4d9.css.map",
+    "main.7e38cffc.js.map": "/cv-project-react/static/js/main.7e38cffc.js.map"
   },
   "entrypoints": [
-    "static/css/main.dde7decd.css",
-    "static/js/main.b5366158.js"
+    "static/css/main.4e52c4d9.css",
+    "static/js/main.7e38cffc.js"
   ]
 }
